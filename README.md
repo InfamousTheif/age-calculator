@@ -104,4 +104,4 @@ Users should be able to:
 **Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@InfamousTheif](https://www.frontendmentor.io/profile/InfamousTheif)
