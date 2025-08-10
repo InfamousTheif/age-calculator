@@ -142,6 +142,7 @@ function displayBirthday(birthday, birthmonth, birthyear){
     // using the yearDiff to subtract the whole number from the calcBirthYear, since they're the equal. Then multplying the result by 12 to get the number of months, before rounding it down to the nearest integer.
     let calcBirthDay;
     if(((now.getDate() - birthdate.getDate()) < 0 && monthDiff <= 0) || (now.getDate() - birthdate.getDate()) < 0 ){
+        calcBirthMonth-=1;
         const newDate = new Date().setMonth((now.getMonth()-1),birthday);
         // creating a new date that uses the birthday and the a month before the current month, but its year is the one we're currently in.
         calcBirthDay = Math.round((now - newDate)/(1000 * 60 * 60 * 24))
@@ -192,3 +193,4 @@ function birthdateHandler(){
 
 inputHanlder()
 birthdateHandler()
+
