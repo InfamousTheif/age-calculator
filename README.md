@@ -45,8 +45,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL]([https://your-solution-url.com](https://github.com/InfamousTheif/age-calculator/tree/main))
+- Live Site URL: [Live site URL](https://your-live-site-url.com)
 
 ## My process
 
