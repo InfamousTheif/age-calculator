@@ -101,7 +101,5 @@ Users should be able to:
 - Get better and faster at CSS
 - Gain a better understaning of webdev as a whole; languages, theory, etc.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 ## Author
 - Frontend Mentor - [@InfamousTheif](https://www.frontendmentor.io/profile/InfamousTheif)
